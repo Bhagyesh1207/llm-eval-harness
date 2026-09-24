@@ -1,0 +1,437 @@
+[
+ {
+  "id": "q01",
+  "source_id": "5727e21e4b864d1900163f36",
+  "topic": "Harvard University",
+  "context": "Harvard's faculty includes scholars such as biologist E. O. Wilson, cognitive scientist Steven Pinker, physicists Lisa Randall and Roy Glauber, chemists Elias Corey, Dudley R. Herschbach and George M. Whitesides, computer scientists Michael O. Rabin and Leslie Valiant, Shakespeare scholar Stephen Greenblatt, writer Louis Menand, critic Helen Vendler, historians Henry Louis Gates, Jr. and Niall Ferguson, economists Amartya Sen, N. Gregory Mankiw, Robert Barro, Stephen A. Marglin, Don M. Wilson III and Martin Feldstein, political philosophers Harvey Mansfield, Baroness Shirley Williams and Michael Sandel, Fields Medalist mathematician Shing-Tung Yau, political scientists Robert Putnam, Joseph Nye, and Stanley Hoffmann, scholar/composers Robert Levin and Bernard Rands, astrophysicist Alyssa A. Goodman, and legal scholars Alan Dershowitz and Lawrence Lessig.",
+  "question": "What Shakespeare Scholar is a faculty member at Harvard?",
+  "gold": [
+   "Stephen Greenblatt"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q02",
+  "source_id": "5725d7e438643c19005acdfa",
+  "topic": "Fresno, California",
+  "context": "Between the 1880s and World War II, Downtown Fresno flourished, filled with electric Street Cars, and contained some of the San Joaquin Valley's most beautiful architectural buildings. Among them, the original Fresno County Courthouse (demolished), the Fresno Carnegie Public Library (demolished), the Fresno Water Tower, the Bank of Italy Building, the Pacific Southwest Building, the San Joaquin Light & Power Building (currently known as the Grand 1401), and the Hughes Hotel (burned down), to name a few.",
+  "question": "What were two of Fresno's most beautiful architectural buildings that are now demolished?",
+  "gold": [
+   "Fresno County Courthouse (demolished), the Fresno Carnegie Public Library",
+   "the original Fresno County Courthouse (demolished), the Fresno Carnegie Public Library (demolished)"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q03",
+  "source_id": "57267947f1498d1400e8e0ef",
+  "topic": "Geology",
+  "context": "In addition to identifying rocks in the field, petrologists identify rock samples in the laboratory. Two of the primary methods for identifying rocks in the laboratory are through optical microscopy and by using an electron microprobe. In an optical mineralogy analysis, thin sections of rock samples are analyzed through a petrographic microscope, where the minerals can be identified through their different properties in plane-polarized and cross-polarized light, including their birefringence, pleochroism, twinning, and interference properties with a conoscopic lens. In the electron microprobe, individual locations are analyzed for their exact chemical compositions and variation in composition within individual crystals. Stable and radioactive isotope studies provide insight into the geochemical evolution of rock units.",
+  "question": "Petrologists identify rock samples in the field and where else? ",
+  "gold": [
+   "laboratory",
+   "the laboratory"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q04",
+  "source_id": "57274beff1498d1400e8f5e7",
+  "topic": "Private school",
+  "context": "In India, private schools are called independent schools, but since some private schools receive financial aid from the government, it can be an aided or an unaided school. So, in a strict sense, a private school is an unaided independent school. For the purpose of this definition, only receipt of financial aid is considered, not land purchased from the government at a subsidized rate. It is within the power of both the union government and the state governments to govern schools since Education appears in the Concurrent list of legislative subjects in the constitution. The practice has been for the union government to provide the broad policy directions while the states create their own rules and regulations for the administration of the sector. Among other things, this has also resulted in 30 different Examination Boards or academic authorities that conduct examinations for school leaving certificates. Prominent Examination Boards that are present in multiple states are the CBSE and the CISCE, NENBSE",
+  "question": "What body in India provides policy directions to schools?",
+  "gold": [
+   "the union government",
+   "union government"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q05",
+  "source_id": "57286ec63acd2414000df9d4",
+  "topic": "University of Chicago",
+  "context": "In science, alumni include astronomers Carl Sagan, a prominent contributor to the scientific research of extraterrestrial life, and Edwin Hubble, known for \"Hubble's Law\", NASA astronaut John M. Grunsfeld, geneticist James Watson, best known as one of the co-discoverers of the structure of DNA, experimental physicist Luis Alvarez, popular environmentalist David Suzuki, balloonist Jeannette Piccard, biologists Ernest Everett Just and Lynn Margulis, computer scientist Richard Hamming, the creator of the Hamming Code, lithium-ion battery developer John B. Goodenough, mathematician and Fields Medal recipient Paul Joseph Cohen, and geochemist Clair Cameron Patterson, who developed the uranium-lead dating method into lead-lead dating. Nuclear physicist and researcher Stanton Friedman, who worked on some early projects involving nuclear-powered spacecraft propulsion systems, is also a graduate (M.Sc).",
+  "question": "Who developed the lithium-ion battery?",
+  "gold": [
+   "John B. Goodenough"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q06",
+  "source_id": "572a14af3f37b319004786c2",
+  "topic": "Immune system",
+  "context": "The immune system is a system of many biological structures and processes within an organism that protects against disease. To function properly, an immune system must detect a wide variety of agents, known as pathogens, from viruses to parasitic worms, and distinguish them from the organism's own healthy tissue. In many species, the immune system can be classified into subsystems, such as the innate immune system versus the adaptive immune system, or humoral immunity versus cell-mediated immunity. In humans, the blood\u2013brain barrier, blood\u2013cerebrospinal fluid barrier, and similar fluid\u2013brain barriers separate the peripheral immune system from the neuroimmune system which protects the brain.",
+  "question": "What are the two different types of immunity?",
+  "gold": [
+   "humoral immunity versus cell-mediated immunity"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q07",
+  "source_id": "5728df634b864d1900164fe3",
+  "topic": "Civil disobedience",
+  "context": "There have been debates as to whether civil disobedience must necessarily be non-violent. Black's Law Dictionary includes non-violence in its definition of civil disobedience. Christian Bay's encyclopedia article states that civil disobedience requires \"carefully chosen and legitimate means,\" but holds that they do not have to be non-violent. It has been argued that, while both civil disobedience and civil rebellion are justified by appeal to constitutional defects, rebellion is much more destructive; therefore, the defects justifying rebellion must be much more serious than those justifying disobedience, and if one cannot justify civil rebellion, then one cannot justify a civil disobedients' use of force and violence and refusal to submit to arrest. Civil disobedients' refraining from violence is also said to help preserve society's tolerance of civil disobedience.",
+  "question": "When violence is used, what is civil disobedience sometimes called?",
+  "gold": [
+   "civil rebellion",
+   "rebellion"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q08",
+  "source_id": "571ccc00dd7acb1400e4c15d",
+  "topic": "Oxygen",
+  "context": "The unusually high concentration of oxygen gas on Earth is the result of the oxygen cycle. This biogeochemical cycle describes the movement of oxygen within and between its three main reservoirs on Earth: the atmosphere, the biosphere, and the lithosphere. The main driving factor of the oxygen cycle is photosynthesis, which is responsible for modern Earth's atmosphere. Photosynthesis releases oxygen into the atmosphere, while respiration and decay remove it from the atmosphere. In the present equilibrium, production and consumption occur at the same rate of roughly 1/2000th of the entire atmospheric oxygen per year.",
+  "question": "What process is responsible for the planet's oxygen content?",
+  "gold": [
+   "photosynthesis"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q09",
+  "source_id": "571094b7a58dae1900cd6a67",
+  "topic": "Huguenot",
+  "context": "The revocation forbade Protestant services, required education of children as Catholics, and prohibited emigration. It proved disastrous to the Huguenots and costly for France. It precipitated civil bloodshed, ruined commerce, and resulted in the illegal flight from the country of hundreds of thousands of Protestants, many of whom became intellectuals, doctors and business leaders in Britain as well as Holland, Prussia, and South Africa. Four thousand emigrated to the North American colonies, where they settled in New York and Virginia, especially. The English welcomed the French refugees, providing money from both government and private agencies to aid their relocation. Those Huguenots who stayed in France became Catholics and were called \"new converts\".",
+  "question": "How did the revocation restrict Huguenot travel?",
+  "gold": [
+   "prohibited emigration"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q10",
+  "source_id": "5728855d3acd2414000dfa8e",
+  "topic": "Yuan dynasty",
+  "context": "When the Mongols placed the Uighurs of the Kingdom of Qocho over the Koreans at the court the Korean King objected, then the Mongol Emperor Kublai Khan rebuked the Korean King, saying that the Uighur King of Qocho was ranked higher than the Karluk Kara-Khanid ruler, who in turn was ranked higher than the Korean King, who was ranked last, because the Uighurs surrendered to the Mongols first, the Karluks surrendered after the Uighurs, and the Koreans surrendered last, and that the Uighurs surrendered peacefully without violently resisting.",
+  "question": "Who was the Uighur King of Qocho ranked above?",
+  "gold": [
+   "Karluk Kara-Khanid",
+   "the Karluk Kara-Khanid ruler"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q11",
+  "source_id": "571094b7a58dae1900cd6a68",
+  "topic": "Huguenot",
+  "context": "The revocation forbade Protestant services, required education of children as Catholics, and prohibited emigration. It proved disastrous to the Huguenots and costly for France. It precipitated civil bloodshed, ruined commerce, and resulted in the illegal flight from the country of hundreds of thousands of Protestants, many of whom became intellectuals, doctors and business leaders in Britain as well as Holland, Prussia, and South Africa. Four thousand emigrated to the North American colonies, where they settled in New York and Virginia, especially. The English welcomed the French refugees, providing money from both government and private agencies to aid their relocation. Those Huguenots who stayed in France became Catholics and were called \"new converts\".",
+  "question": "How many Huguenots emigrated to North America as colonists?",
+  "gold": [
+   "Four thousand"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q12",
+  "source_id": "572a0d21af94a219006aa785",
+  "topic": "Economic inequality",
+  "context": "Central Banking economist Raghuram Rajan argues that \"systematic economic inequalities, within the United States and around the world, have created deep financial 'fault lines' that have made [financial] crises more likely to happen than in the past\" \u2013 the Financial crisis of 2007\u201308 being the most recent example. To compensate for stagnating and declining purchasing power, political pressure has developed to extend easier credit to the lower and middle income earners \u2013 particularly to buy homes \u2013 and easier credit in general to keep unemployment rates low. This has given the American economy a tendency to go \"from bubble to bubble\" fueled by unsustainable monetary stimulation.",
+  "question": "What is the most recent example of financial fault lines? ",
+  "gold": [
+   "Financial crisis of 2007\u201308",
+   "the Financial crisis of 2007\u201308"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q13",
+  "source_id": "57293d6d1d046914007791ba",
+  "topic": "Intergovernmental Panel on Climate Change",
+  "context": "Each chapter has a number of authors who are responsible for writing and editing the material. A chapter typically has two \"coordinating lead authors\", ten to fifteen \"lead authors\", and a somewhat larger number of \"contributing authors\". The coordinating lead authors are responsible for assembling the contributions of the other authors, ensuring that they meet stylistic and formatting requirements, and reporting to the Working Group chairs. Lead authors are responsible for writing sections of chapters. Contributing authors prepare text, graphs or data for inclusion by the lead authors.",
+  "question": "Who assembles the authors' contributions?",
+  "gold": [
+   "The coordinating lead authors",
+   "coordinating lead authors"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q14",
+  "source_id": "57280f974b864d1900164371",
+  "topic": "Civil disobedience",
+  "context": "Civil disobedience is usually defined as pertaining to a citizen's relation to the state and its laws, as distinguished from a constitutional impasse in which two public agencies, especially two equally sovereign branches of government, conflict. For instance, if the head of government of a country were to refuse to enforce a decision of that country's highest court, it would not be civil disobedience, since the head of government would be acting in her or his capacity as public official rather than private citizen.",
+  "question": "Constitutional impasse is different from civil disobedience because does not include what type of person?",
+  "gold": [
+   "citizen's",
+   "head of government",
+   "private",
+   "private citizen"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q15",
+  "source_id": "572a020f6aef051400155198",
+  "topic": "Amazon rainforest",
+  "context": "Environmentalists are concerned about loss of biodiversity that will result from destruction of the forest, and also about the release of the carbon contained within the vegetation, which could accelerate global warming. Amazonian evergreen forests account for about 10% of the world's terrestrial primary productivity and 10% of the carbon stores in ecosystems\u2014of the order of 1.1 \u00d7 1011 metric tonnes of carbon. Amazonian forests are estimated to have accumulated 0.62 \u00b1 0.37 tons of carbon per hectare per year between 1975 and 1996.",
+  "question": "What are environmentalists concerned about losing in the Amazon forest?",
+  "gold": [
+   "biodiversity",
+   "loss of biodiversity"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q16",
+  "source_id": "5711541350c2381900b54a70",
+  "topic": "Steam engine",
+  "context": "A method to lessen the magnitude of this heating and cooling was invented in 1804 by British engineer Arthur Woolf, who patented his Woolf high-pressure compound engine in 1805. In the compound engine, high-pressure steam from the boiler expands in a high-pressure (HP) cylinder and then enters one or more subsequent lower-pressure (LP) cylinders. The complete expansion of the steam now occurs across multiple cylinders and as less expansion now occurs in each cylinder less heat is lost by the steam in each. This reduces the magnitude of cylinder heating and cooling, increasing the efficiency of the engine. By staging the expansion in multiple cylinders, torque variability can be reduced. To derive equal work from lower-pressure steam requires a larger cylinder volume as this steam occupies a greater volume. Therefore, the bore, and often the stroke, are increased in low-pressure cylinders resulting in larger cylinders.",
+  "question": "What nationality was Arthur Woolf?",
+  "gold": [
+   "British"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q17",
+  "source_id": "572fe288a23a5019007fcad8",
+  "topic": "Rhine",
+  "context": "The variant forms of the name of the Rhine in modern languages are all derived from the Gaulish name R\u0113nos, which was adapted in Roman-era geography (1st century BC) as Greek \u1fec\u1fc6\u03bd\u03bf\u03c2 (Rh\u0113nos), Latin Rhenus.[note 3] The spelling with Rh- in English Rhine as well as in German Rhein and French Rhin is due to the influence of Greek orthography, while the vocalisation -i- is due to the Proto-Germanic adoption of the Gaulish name as *R\u012bnaz, via Old Frankish giving Old English R\u00edn, Old High German R\u012bn, Dutch Rijn (formerly also spelled Rhijn)). The diphthong in modern German Rhein (also adopted in Romansh Rein, Rain) is a Central German development of the early modern period, the Alemannic name R\u012b(n) retaining the older vocalism,[note 4] as does Ripuarian Rhing, while Palatine has diphthongized Rhei, Rhoi. Spanish is with French in adopting the Germanic vocalism Rin-, while Italian, Occitan and Portuguese retain the Latin Ren-.",
+  "question": "What is the Rhine called in French?",
+  "gold": [
+   "Rhin"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q18",
+  "source_id": "57280fd3ff5b5019007d9c27",
+  "topic": "Jacksonville, Florida",
+  "context": "French Huguenot explorer Jean Ribault charted the St. Johns River in 1562 calling it the River of May because he discovered it in May. Ribault erected a stone column near present-day Jacksonville claiming the newly discovered land for France. In 1564, Ren\u00e9 Goulaine de Laudonni\u00e8re established the first European settlement, Fort Caroline, on the St. Johns near the main village of the Saturiwa. Philip II of Spain ordered Pedro Men\u00e9ndez de Avil\u00e9s to protect the interest of Spain by attacking the French presence at Fort Caroline. On September 20, 1565, a Spanish force from the nearby Spanish settlement of St. Augustine attacked Fort Caroline, and killed nearly all the French soldiers defending it. The Spanish renamed the fort San Mateo, and following the ejection of the French, St. Augustine's position as the most important settlement in Florida was solidified. The location of Fort Caroline is subject to debate but a reconstruction of the fort was established on the St. Johns River in 1964.",
+  "question": "For what nation did Ribault initially claim what is now Jacksonville?",
+  "gold": [
+   "France"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q19",
+  "source_id": "571cc5c45efbb31900334ddb",
+  "topic": "Oxygen",
+  "context": "Reactive oxygen species, such as superoxide ion (O\u2212\n2) and hydrogen peroxide (H\n2O\n2), are dangerous by-products of oxygen use in organisms. Parts of the immune system of higher organisms create peroxide, superoxide, and singlet oxygen to destroy invading microbes. Reactive oxygen species also play an important role in the hypersensitive response of plants against pathogen attack. Oxygen is toxic to obligately anaerobic organisms, which were the dominant form of early life on Earth until O\n2 began to accumulate in the atmosphere about 2.5 billion years ago during the Great Oxygenation Event, about a billion years after the first appearance of these organisms.",
+  "question": "For what purpose do organisms make peroxide and superoxide?",
+  "gold": [
+   "destroy invading microbes",
+   "to destroy invading microbes"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q20",
+  "source_id": "56e1ec83cd28a01900c67c0e",
+  "topic": "Computational complexity theory",
+  "context": "The integer factorization problem is the computational problem of determining the prime factorization of a given integer. Phrased as a decision problem, it is the problem of deciding whether the input has a factor less than k. No efficient integer factorization algorithm is known, and this fact forms the basis of several modern cryptographic systems, such as the RSA algorithm. The integer factorization problem is in NP and in co-NP (and even in UP and co-UP). If the problem is NP-complete, the polynomial time hierarchy will collapse to its first level (i.e., NP will equal co-NP). The best known algorithm for integer factorization is the general number field sieve, which takes time O(e(64/9)1/3(n.log 2)1/3(log (n.log 2))2/3) to factor an n-bit integer. However, the best known quantum algorithm for this problem, Shor's algorithm, does run in polynomial time. Unfortunately, this fact doesn't say much about where the problem lies with respect to non-quantum complexity classes.",
+  "question": "What is the most well-known algorithm associated with the integer factorization problem?",
+  "gold": [
+   "RSA",
+   "general number field sieve",
+   "the general number field sieve"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q21",
+  "source_id": "572a0ecb1d04691400779717",
+  "topic": "Economic inequality",
+  "context": "According to economists David Castells-Quintana and Vicente Royuela, increasing inequality harms economic growth. High and persistent unemployment, in which inequality increases, has a negative effect on subsequent long-run economic growth. Unemployment can harm growth not only because it is a waste of resources, but also because it generates redistributive pressures and subsequent distortions, drives people to poverty, constrains liquidity limiting labor mobility, and erodes self-esteem promoting social dislocation, unrest and conflict. Policies aiming at controlling unemployment and in particular at reducing its inequality-associated effects support economic growth.",
+  "question": "What do David Castlles-Quintana and Vicente Royuela do for a living?",
+  "gold": [
+   "economists"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q22",
+  "source_id": "5727e21e4b864d1900163f35",
+  "topic": "Harvard University",
+  "context": "Harvard's faculty includes scholars such as biologist E. O. Wilson, cognitive scientist Steven Pinker, physicists Lisa Randall and Roy Glauber, chemists Elias Corey, Dudley R. Herschbach and George M. Whitesides, computer scientists Michael O. Rabin and Leslie Valiant, Shakespeare scholar Stephen Greenblatt, writer Louis Menand, critic Helen Vendler, historians Henry Louis Gates, Jr. and Niall Ferguson, economists Amartya Sen, N. Gregory Mankiw, Robert Barro, Stephen A. Marglin, Don M. Wilson III and Martin Feldstein, political philosophers Harvey Mansfield, Baroness Shirley Williams and Michael Sandel, Fields Medalist mathematician Shing-Tung Yau, political scientists Robert Putnam, Joseph Nye, and Stanley Hoffmann, scholar/composers Robert Levin and Bernard Rands, astrophysicist Alyssa A. Goodman, and legal scholars Alan Dershowitz and Lawrence Lessig.",
+  "question": "What prestigious legal scholars are faculty members at Harvard?",
+  "gold": [
+   "Alan Dershowitz and Lawrence Lessig"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q23",
+  "source_id": "5729f2646aef051400155131",
+  "topic": "Amazon rainforest",
+  "context": "The biodiversity of plant species is the highest on Earth with one 2001 study finding a quarter square kilometer (62 acres) of Ecuadorian rainforest supports more than 1,100 tree species. A study in 1999 found one square kilometer (247 acres) of Amazon rainforest can contain about 90,790 tonnes of living plants. The average plant biomass is estimated at 356 \u00b1 47 tonnes per hectare. To date, an estimated 438,000 species of plants of economic and social interest have been registered in the region with many more remaining to be discovered or catalogued. The total number of tree species in the region is estimated at 16,000.",
+  "question": "How many tree species were found in one square kilometer of Ecuadorian rainforest in 2001?",
+  "gold": [
+   "1,100",
+   "more than 1,100"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q24",
+  "source_id": "572a020f6aef05140015519b",
+  "topic": "Amazon rainforest",
+  "context": "Environmentalists are concerned about loss of biodiversity that will result from destruction of the forest, and also about the release of the carbon contained within the vegetation, which could accelerate global warming. Amazonian evergreen forests account for about 10% of the world's terrestrial primary productivity and 10% of the carbon stores in ecosystems\u2014of the order of 1.1 \u00d7 1011 metric tonnes of carbon. Amazonian forests are estimated to have accumulated 0.62 \u00b1 0.37 tons of carbon per hectare per year between 1975 and 1996.",
+  "question": "What amount of the worlds carbon is stored in the Amazon forest?",
+  "gold": [
+   "10%",
+   "10% of the carbon stores"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q25",
+  "source_id": "57264865dd62a815002e8063",
+  "topic": "European Union law",
+  "context": "Following the Nice Treaty, there was an attempt to reform the constitutional law of the European Union and make it more transparent; this would have also produced a single constitutional document. However, as a result of the referendum in France and the referendum in the Netherlands, the 2004 Treaty establishing a Constitution for Europe never came into force. Instead, the Lisbon Treaty was enacted. Its substance was very similar to the proposed constitutional treaty, but it was formally an amending treaty, and \u2013 though it significantly altered the existing treaties \u2013 it did not completely replace them.",
+  "question": "What two country's referendums curtailed a constitution for Europe?",
+  "gold": [
+   "referendum in France and the referendum in the Netherlands",
+   "the referendum in France and the referendum in the Netherlands"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q26",
+  "source_id": "5728f7774b864d1900165130",
+  "topic": "Immune system",
+  "context": "Both innate and adaptive immunity depend on the ability of the immune system to distinguish between self and non-self molecules. In immunology, self molecules are those components of an organism's body that can be distinguished from foreign substances by the immune system. Conversely, non-self molecules are those recognized as foreign molecules. One class of non-self molecules are called antigens (short for antibody generators) and are defined as substances that bind to specific immune receptors and elicit an immune response.",
+  "question": "What molecules are recognized as foreign by the immune system?",
+  "gold": [
+   "non-self",
+   "non-self molecules"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q27",
+  "source_id": "56dde27d9a695914005b9651",
+  "topic": "Normans",
+  "context": "The descendants of Rollo's Vikings and their Frankish wives would replace the Norse religion and Old Norse language with Catholicism (Christianity) and the Gallo-Romance language of the local people, blending their maternal Frankish heritage with Old Norse traditions and customs to synthesize a unique \"Norman\" culture in the north of France. The Norman language was forged by the adoption of the indigenous langue d'o\u00efl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today.",
+  "question": "What was the Norman religion?",
+  "gold": [
+   "Catholicism"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q28",
+  "source_id": "56e1febfe3433e1400423239",
+  "topic": "Computational complexity theory",
+  "context": "What intractability means in practice is open to debate. Saying that a problem is not in P does not imply that all large cases of the problem are hard or even that most of them are. For example, the decision problem in Presburger arithmetic has been shown not to be in P, yet algorithms have been written that solve the problem in reasonable times in most cases. Similarly, algorithms can solve the NP-complete knapsack problem over a wide range of sizes in less than quadratic time and SAT solvers routinely handle large instances of the NP-complete Boolean satisfiability problem.",
+  "question": "How quickly can an algorithm solve an NP-complete knapsack problem?",
+  "gold": [
+   "in less than quadratic time",
+   "less than quadratic time"
+  ],
+  "answerable": true
+ },
+ {
+  "id": "q29",
+  "source_id": "5a3e307f378766001a0024d8",
+  "topic": "Intergovernmental Panel on Climate Change",
+  "context": "The IPCC does not carry out research nor does it monitor climate related data. Lead authors of IPCC reports assess the available information about climate change based on published sources. According to IPCC guidelines, authors should give priority to peer-reviewed sources. Authors may refer to non-peer-reviewed sources (the \"grey literature\"), provided that they are of sufficient quality. Examples of non-peer-reviewed sources include model results, reports from government agencies and non-governmental organizations, and industry journals. Each subsequent IPCC report notes areas where the science has improved since the previous report and also notes areas where further research is required.",
+  "question": "What organization does climate related research?",
+  "gold": [],
+  "answerable": false
+ },
+ {
+  "id": "q30",
+  "source_id": "5ad261cfd7d075001a429066",
+  "topic": "Economic inequality",
+  "context": "Central Banking economist Raghuram Rajan argues that \"systematic economic inequalities, within the United States and around the world, have created deep financial 'fault lines' that have made [financial] crises more likely to happen than in the past\" \u2013 the Financial crisis of 2007\u201308 being the most recent example. To compensate for stagnating and declining purchasing power, political pressure has developed to extend easier credit to the lower and middle income earners \u2013 particularly to buy homes \u2013 and easier credit in general to keep unemployment rates low. This has given the American economy a tendency to go \"from bubble to bubble\" fueled by unsustainable monetary stimulation.",
+  "question": "What hasn't given the American economy a tendency to go \"from bubble to bubble\"?",
+  "gold": [],
+  "answerable": false
+ },
+ {
+  "id": "q31",
+  "source_id": "5a669800f038b7001ab0c03d",
+  "topic": "Packet switching",
+  "context": "Datanet 1 was the public switched data network operated by the Dutch PTT Telecom (now known as KPN). Strictly speaking Datanet 1 only referred to the network and the connected users via leased lines (using the X.121 DNIC 2041), the name also referred to the public PAD service Telepad (using the DNIC 2049). And because the main Videotex service used the network and modified PAD devices as infrastructure the name Datanet 1 was used for these services as well. Although this use of the name was incorrect all these services were managed by the same people within one department of KPN contributed to the confusion.",
+  "question": "What service used the network and modified KPN devices?",
+  "gold": [],
+  "answerable": false
+ },
+ {
+  "id": "q32",
+  "source_id": "5acfa31377cf76001a685684",
+  "topic": "University of Chicago",
+  "context": "In literature, author of the New York Times bestseller Before I Fall Lauren Oliver, Pulitzer Prize winning novelist Philip Roth, Canadian-born Pulitzer Prize and Nobel Prize for Literature winning writer Saul Bellow, political philosopher, literary critic and author of the New York Times bestseller \"The Closing of the American Mind\" Allan Bloom, ''The Good War\" author Studs Terkel, American writer, essayist, filmmaker, teacher, and political activist Susan Sontag, analytic philosopher and Stanford University Professor of Comparative Literature Richard Rorty, and American writer and satirist Kurt Vonnegut are notable alumni.",
+  "question": "Who wrote \"The American War\"?",
+  "gold": [],
+  "answerable": false
+ },
+ {
+  "id": "q33",
+  "source_id": "5a1c836ab4fb5d001871463a",
+  "topic": "Jacksonville, Florida",
+  "context": "During the American Civil War, Jacksonville was a key supply point for hogs and cattle being shipped from Florida to aid the Confederate cause. The city was blockaded by Union forces, who gained control of the nearby Fort Clinch. Though no battles were fought in Jacksonville proper, the city changed hands several times between Union and Confederate forces. The Skirmish of the Brick Church in 1862 just outside Jacksonville proper resulted in the first Confederate victory in Florida. In February 1864 Union forces left Jacksonville and confronted a Confederate Army at the Battle of Olustee resulting in a Confederate victory. Union forces then retreated to Jacksonville and held the city for the remainder of the war. In March 1864 a Confederate cavalry confronted a Union expedition resulting in the Battle of Cedar Creek. Warfare and the long occupation left the city disrupted after the war.",
+  "question": "During what word was Jacksonville a key supply point for the North?",
+  "gold": [],
+  "answerable": false
+ },
+ {
+  "id": "q34",
+  "source_id": "5ad567055b96ef001a10aded",
+  "topic": "Computational complexity theory",
+  "context": "The complexity class P is often seen as a mathematical abstraction modeling those computational tasks that admit an efficient algorithm. This hypothesis is called the Cobham\u2013Edmonds thesis. The complexity class NP, on the other hand, contains many problems that people would like to solve efficiently, but for which no efficient algorithm is known, such as the Boolean satisfiability problem, the Hamiltonian path problem and the vertex cover problem. Since deterministic Turing machines are special non-deterministic Turing machines, it is easily observed that each problem in P is also member of the class NP.",
+  "question": "What is an example of a problem that rests within the NP simplicity class?",
+  "gold": [],
+  "answerable": false
+ },
+ {
+  "id": "q35",
+  "source_id": "5ad02a9777cf76001a686c61",
+  "topic": "Scottish Parliament",
+  "context": "After each election to the Scottish Parliament, at the beginning of each parliamentary session, Parliament elects one MSP to serve as Presiding Officer, the equivalent of the speaker (currently Tricia Marwick), and two MSPs to serve as deputies (currently Elaine Smith and John Scott). The Presiding Officer and deputies are elected by a secret ballot of the 129 MSPs, which is the only secret ballot conducted in the Scottish Parliament. Principally, the role of the Presiding Officer is to chair chamber proceedings and the Scottish Parliamentary Corporate Body. When chairing meetings of the Parliament, the Presiding Officer and his/her deputies must be politically impartial. During debates, the Presiding Officer (or the deputy) is assisted by the parliamentary clerks, who give advice on how to interpret the standing orders that govern the proceedings of meetings. A vote clerk sits in front of the Presiding Officer and operates the electronic voting equipment and chamber clocks.",
+  "question": "The former speaker of Parliament is whom?",
+  "gold": [],
+  "answerable": false
+ },
+ {
+  "id": "q36",
+  "source_id": "5ad0285977cf76001a686c0e",
+  "topic": "Scottish Parliament",
+  "context": "Whilst the permanent building at Holyrood was being constructed, the Parliament's temporary home was the General Assembly Hall of the Church of Scotland on the Royal Mile in Edinburgh. Official photographs and television interviews were held in the courtyard adjoining the Assembly Hall, which is part of the School of Divinity of the University of Edinburgh. This building was vacated twice to allow for the meeting of the Church's General Assembly. In May 2000, the Parliament was temporarily relocated to the former Strathclyde Regional Council debating chamber in Glasgow, and to the University of Aberdeen in May 2002.",
+  "question": "Which building was vacated three times to allow for the meeting of the Church's General Assembly?",
+  "gold": [],
+  "answerable": false
+ },
+ {
+  "id": "q37",
+  "source_id": "5a3e3de4378766001a002515",
+  "topic": "Intergovernmental Panel on Climate Change",
+  "context": "Former IPCC chairman Robert Watson has said \"The mistakes all appear to have gone in the direction of making it seem like climate change is more serious by overstating the impact. That is worrying. The IPCC needs to look at this trend in the errors and ask why it happened\". Martin Parry, a climate expert who had been co-chair of the IPCC working group II, said that \"What began with a single unfortunate error over Himalayan glaciers has become a clamour without substance\" and the IPCC had investigated the other alleged mistakes, which were \"generally unfounded and also marginal to the assessment\".",
+  "question": "Who published an error regarding the Himalayan glaciers?",
+  "gold": [],
+  "answerable": false
+ },
+ {
+  "id": "q38",
+  "source_id": "5a57fe29770dc0001aeeff1a",
+  "topic": "Geology",
+  "context": "Extension causes the rock units as a whole to become longer and thinner. This is primarily accomplished through normal faulting and through the ductile stretching and thinning. Normal faults drop rock units that are higher below those that are lower. This typically results in younger units being placed below older units. Stretching of units can result in their thinning; in fact, there is a location within the Maria Fold and Thrust Belt in which the entire sedimentary sequence of the Grand Canyon can be seen over a length of less than a meter. Rocks at the depth to be ductilely stretched are often also metamorphosed. These stretched rocks can also pinch into lenses, known as boudins, after the French word for \"sausage\", because of their visual similarity.",
+  "question": "What is another word for thinning rocks in French?",
+  "gold": [],
+  "answerable": false
+ },
+ {
+  "id": "q39",
+  "source_id": "5ad254a5d7d075001a428d24",
+  "topic": "Oxygen",
+  "context": "Paleoclimatologists measure the ratio of oxygen-18 and oxygen-16 in the shells and skeletons of marine organisms to determine what the climate was like millions of years ago (see oxygen isotope ratio cycle). Seawater molecules that contain the lighter isotope, oxygen-16, evaporate at a slightly faster rate than water molecules containing the 12% heavier oxygen-18; this disparity increases at lower temperatures. During periods of lower global temperatures, snow and rain from that evaporated water tends to be higher in oxygen-16, and the seawater left behind tends to be higher in oxygen-18. Marine organisms then incorporate more oxygen-18 into their skeletons and shells than they would in a warmer climate. Paleoclimatologists also directly measure this ratio in the water molecules of ice core samples that are up to several hundreds of thousands of years old.",
+  "question": "Who measures oxygen-18 and oxygen-16 in skeletons of all organisms?",
+  "gold": [],
+  "answerable": false
+ },
+ {
+  "id": "q40",
+  "source_id": "5ad40d89604f3c001a4000d1",
+  "topic": "Yuan dynasty",
+  "context": "The Central Region, consisting of present-day Hebei, Shandong, Shanxi, the south-eastern part of present-day Inner Mongolia and the Henan areas to the north of the Yellow River, was considered the most important region of the dynasty and directly governed by the Central Secretariat (or Zhongshu Sheng) at Khanbaliq (modern Beijing); similarly, another top-level administrative department called the Bureau of Buddhist and Tibetan Affairs (or Xuanzheng Yuan) held administrative rule over the whole of modern-day Tibet and a part of Sichuan, Qinghai and Kashmir.",
+  "question": "What region of Japan is Hebei part of?",
+  "gold": [],
+  "answerable": false
+ }
+]
