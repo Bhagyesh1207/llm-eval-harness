@@ -1,0 +1,1 @@
+{"name":"evalharness-generate","private":true,"type":"module","dependencies":{"@huggingface/transformers":"^3"}}
