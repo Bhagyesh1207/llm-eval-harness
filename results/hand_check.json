@@ -1,0 +1,222 @@
+[
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "grounded",
+  "id": "q04",
+  "answer": "The body in India that provides policy directions to schools is the National Education Board (NENBSE).",
+  "judge_faithful": false,
+  "judge_entail": 0.007,
+  "human_supported": false,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "grounded",
+  "id": "q36",
+  "answer": "The building that was vacated three times to allow for the meeting of the Church's General Assembly was the General Assembly Hall of the Church of Scotland on the Royal Mile in Edinburgh.",
+  "judge_faithful": false,
+  "judge_entail": 0.088,
+  "human_supported": false,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "grounded",
+  "id": "q08",
+  "answer": "The process responsible for the planet's oxygen content is the \"oxygen cycle.\"",
+  "judge_faithful": true,
+  "judge_entail": 0.993,
+  "human_supported": true,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "grounded",
+  "id": "q23",
+  "answer": "The biodiversity of plant species in Ecuadorian rainforest is the highest on Earth with a study in 1999 finding 1,600 tree species.",
+  "judge_faithful": false,
+  "judge_entail": 0.007,
+  "human_supported": false,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "prompt": "grounded",
+  "id": "q09",
+  "answer": "The revocation restricted Huguenot travel by prohibiting them from leaving France and requiring them to be Catholics.",
+  "judge_faithful": true,
+  "judge_entail": 0.992,
+  "human_supported": true,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "prompt": "grounded",
+  "id": "q08",
+  "answer": "The process responsible for the planet's oxygen content is photosynthesis.",
+  "judge_faithful": true,
+  "judge_entail": 0.989,
+  "human_supported": true,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "grounded",
+  "id": "q24",
+  "answer": "The amount of carbon stored in the Amazon forest is estimated to be around 0.62 \u00b1 0.37 tons of carbon per hectare per year.",
+  "judge_faithful": true,
+  "judge_entail": 0.992,
+  "human_supported": false,
+  "agree": false,
+  "note": "Per-year accumulation reported as total stored"
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "grounded",
+  "id": "q10",
+  "answer": "The Uighur King of Qocho ranked above the Karluk Kara-Khanid ruler.",
+  "judge_faithful": true,
+  "judge_entail": 0.992,
+  "human_supported": true,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "prompt": "plain",
+  "id": "q25",
+  "answer": "The referendums in France and the Netherlands curtailed the constitution for Europe.",
+  "judge_faithful": false,
+  "judge_entail": 0.285,
+  "human_supported": true,
+  "agree": false,
+  "note": "Correct and supported, judge missed it"
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "grounded",
+  "id": "q03",
+  "answer": "The question is asking about the petrology and the identification of rocks in the field. The answer is that petrologists identify rocks in the laboratory and in the field.",
+  "judge_faithful": true,
+  "judge_entail": 0.899,
+  "human_supported": true,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "plain",
+  "id": "q05",
+  "answer": "The person who developed the lithium-ion battery is Stanton Friedman.",
+  "judge_faithful": true,
+  "judge_entail": 0.863,
+  "human_supported": false,
+  "agree": false,
+  "note": "Wrong person, passage names Goodenough"
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "prompt": "plain",
+  "id": "q37",
+  "answer": "Robert Watson",
+  "judge_faithful": true,
+  "judge_entail": 0.928,
+  "human_supported": false,
+  "agree": false,
+  "note": "Passage never says who made the error"
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "prompt": "plain",
+  "id": "q24",
+  "answer": "The Amazon forest stores approximately 10% of the world's carbon.",
+  "judge_faithful": true,
+  "judge_entail": 0.993,
+  "human_supported": true,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "grounded",
+  "id": "q30",
+  "answer": "Raghuram Rajan argues that \"systematic economic inequalities, within the United States and around the world, have created deep financial 'fault lines' that have made the United States a \"bubble to bubble\" scenario. This",
+  "judge_faithful": true,
+  "judge_entail": 0.955,
+  "human_supported": false,
+  "agree": false,
+  "note": "Garbled claim not in passage"
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "prompt": "plain",
+  "id": "q11",
+  "answer": "The Huguenots who emigrated to North America as colonists were called \"new converts\".",
+  "judge_faithful": false,
+  "judge_entail": 0.033,
+  "human_supported": false,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "plain",
+  "id": "q29",
+  "answer": "The IPCC does not carry out research. It is a peer-reviewed, non-governmental, and non-governmental organization.",
+  "judge_faithful": false,
+  "judge_entail": 0.357,
+  "human_supported": false,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "prompt": "grounded",
+  "id": "q01",
+  "answer": "E. O. Wilson is a faculty member at Harvard.",
+  "judge_faithful": true,
+  "judge_entail": 0.996,
+  "human_supported": true,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "prompt": "plain",
+  "id": "q04",
+  "answer": "The Union government provides policy directions to schools in India.",
+  "judge_faithful": true,
+  "judge_entail": 0.763,
+  "human_supported": true,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "grounded",
+  "id": "q28",
+  "answer": "The answer to the question is: It is not immediately clear how quickly an algorithm can solve an NP-complete knapsack problem. Presburger arithmetic has been shown to be in NP-complete, but it is not known how quickly",
+  "judge_faithful": false,
+  "judge_entail": 0.217,
+  "human_supported": false,
+  "agree": true,
+  "note": ""
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "prompt": "plain",
+  "id": "q17",
+  "answer": "In French, the Rhine is called Rin.",
+  "judge_faithful": true,
+  "judge_entail": 0.733,
+  "human_supported": false,
+  "agree": false,
+  "note": "Passage says Rhin, not Rin"
+ }
+]
