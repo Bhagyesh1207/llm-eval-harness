@@ -1,0 +1,54 @@
+[
+ {
+  "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "prompt": "grounded",
+  "n": 40,
+  "accuracy": 45.0,
+  "answerable_acc": 53.6,
+  "abstain_when_no_answer": 25.0,
+  "faithfulness": 75.8,
+  "hallucination_rate": 27.5,
+  "relevance": 0.663,
+  "avg_latency_s": 2.7,
+  "score": 64.4
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "prompt": "plain",
+  "n": 40,
+  "accuracy": 45.0,
+  "answerable_acc": 64.3,
+  "abstain_when_no_answer": 0.0,
+  "faithfulness": 70.0,
+  "hallucination_rate": 47.5,
+  "relevance": 0.773,
+  "avg_latency_s": 2.83,
+  "score": 55.8
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "plain",
+  "n": 40,
+  "accuracy": 25.0,
+  "answerable_acc": 35.7,
+  "abstain_when_no_answer": 0.0,
+  "faithfulness": 67.5,
+  "hallucination_rate": 52.5,
+  "relevance": 0.684,
+  "avg_latency_s": 1.4,
+  "score": 46.7
+ },
+ {
+  "model": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "prompt": "grounded",
+  "n": 40,
+  "accuracy": 17.5,
+  "answerable_acc": 21.4,
+  "abstain_when_no_answer": 8.3,
+  "faithfulness": 47.1,
+  "hallucination_rate": 57.5,
+  "relevance": 0.575,
+  "avg_latency_s": 1.51,
+  "score": 35.7
+ }
+]
