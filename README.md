@@ -37,6 +37,10 @@ Most teams find out a model hallucinates when a user complains. This harness giv
 
 Full per-answer scores: [`results/judged.json`](results/judged.json). Leaderboard: [`results/leaderboard.md`](results/leaderboard.md).
 
+**Pending: a hosted model run**
+
+A fifth run with Gemma 4 26B (Google's open model, served free on the Gemini API) is set up but not on the board yet. The first answers came back fine, but the calls that carry the API key started failing on the network side in my run environment, so the run was paused before it finished. This was not a Google quota or billing limit. A partial run would not be a fair comparison, so no row is shown until all 80 answers (40 questions, both prompts) are in.
+
 ## How the judge works
 
 | Metric | How it is measured |
